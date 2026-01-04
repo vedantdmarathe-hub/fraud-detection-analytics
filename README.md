@@ -57,6 +57,16 @@ Model explainability was implemented using SHAP to:
 - Identify globally important features
 - Understand feature impact on fraud predictions
 - Support stakeholder trust and auditability
+### Key Results
+
+#### Fraud vs Non-Fraud Distribution
+![Fraud Distribution](figures/01_fraud_count.png)
+
+#### Cost-Based Threshold Optimization
+![Cost vs Threshold](figures/cost_vs_threshold.png)
+
+#### Model Explainability (SHAP)
+![SHAP Summary](figures/shap_summary_test.png)
 
 ## Power BI Dashboard
 Power BI dashboards were built using exported model outputs to:
