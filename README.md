@@ -77,6 +77,9 @@ Power BI dashboards were built using exported model outputs to:
 ## Power BI Dashboard
 
 The Power BI dashboard supports fraud monitoring, model governance, and investigation workflows.
+### Data Flow for Reporting
+Model predictions and engineered features are exported as CSV files and consumed by Power BI.
+This separation ensures reproducibility, auditability, and safe sharing without exposing raw transaction data.
 
 ### Executive Overview
 ![Executive Summary](powerbi/dashboard_screenshots/01_executive_summary.png)
