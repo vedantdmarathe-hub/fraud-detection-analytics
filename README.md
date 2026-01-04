@@ -74,6 +74,21 @@ Power BI dashboards were built using exported model outputs to:
 - Track high-risk transactions
 - Visualize model-driven alerts
 - Support operational decision-making
+## Power BI Dashboard
+
+The Power BI dashboard supports fraud monitoring, model governance, and investigation workflows.
+
+### Executive Overview
+![Executive Summary](powerbi/dashboard_screenshots/01_executive_summary.png)
+
+### Model Performance & Cost Trade-offs
+![Model Performance](powerbi/dashboard_screenshots/02_model_performance_thresholds.png)
+
+### Fraud Investigation & Alerts
+![Investigation](powerbi/dashboard_screenshots/03_fraud_investigation_triage.png)
+
+### Model Explainability
+![Explainability](powerbi/dashboard_screenshots/04_model_explainability_shap.png)
 
 Screenshots of the dashboard are included in this repository.
 
